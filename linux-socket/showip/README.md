@@ -11,5 +11,6 @@ C++ version 23(pure for testing)
 ```
   $ mkdir build && cd build
   $ cmake ..
+  $ make -j
   $ ./showip www.example.net
 ```
